@@ -28,7 +28,7 @@ You can access the dataset using the link below:
 
 ## Dashboard Screenshot
 
-![Amazon Sales Dashboard](dashboard.png)
+![Amazon Sales Dashboard](dashboard.png.png)
 
 
 ## Business Insights
