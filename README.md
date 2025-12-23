@@ -27,7 +27,7 @@ You can access the dataset using the link below:
 
 
 ## Dashboard Screenshot
-![Dashboard](dashboard.png)
+![Dashboard]([dashboard.png](https://pub-35faf01d0bac49249f374189fd3a24d9.r2.dev/images/1766516557335-9bbd80a5-e0ff-4500-8409-401d482d2208.png))
 
 ## Business Insights
 - The "Set" category generates the highest revenue, making it the top-performing product category.
